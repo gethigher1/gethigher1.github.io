@@ -8,7 +8,7 @@
 
 body
 {
-    background-color: blueviolet;
+    background-color: violet;
 }
 
 @media screen and (orientation: landscape)  {
